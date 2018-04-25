@@ -1,0 +1,55 @@
+
+
+.jumbotron {
+  position: relative;
+  background-image: url(../images/books.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+#where {
+  top: 5px;
+  right: 100px;
+}
+
+.btn-lg {
+  text-align: right;
+  height: 200px;
+  width: 200px;
+  font-size: 40px;
+  border-top: 1px solid #154B9B;
+  border-bottom: 1px solid #154B9B;
+  border-left: 1px solid #154B9B;
+  border-right: 1px solid #154B9B;
+  border-radius: 50%;
+}
+
+
+.navbar {
+  border-top: 1px solid #154B9B;
+  border-bottom: 1px solid #154B9B;
+}
+
+.navbar-toggler-icon {
+  font-size: 14px;
+}
+.nav-item, .nav-link  {
+  font-weight: bold;
+  font-family: 'Lora', serif;
+}
+
+.bio, h4, h2, h6 {
+  font-family: 'Lora', serif;
+}
+
+.row {
+  margin-bottom: 25px;
+}
+
+.photo {
+  font-size: .85rem;
+  margin-top: 10px;
+}
+
+
