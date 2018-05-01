@@ -8,16 +8,13 @@
   height: 600px;
 }
 
-#where {
-  top: 5px;
-  right: 100px;
-}
 
 .btn-lg {
-  text-align: right;
-  height: 200px;
-  width: 200px;
-  font-size: 40px;
+  vertical-align: center;
+  text-align: center;
+  height: 12.5rem;
+  width: 12.5rem;
+  font-size: 2.5rem;
   border-top: 1px solid #154B9B;
   border-bottom: 1px solid #154B9B;
   border-left: 1px solid #154B9B;
